@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwindcss/forms
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.tagline{
+    font-family: 'Open Sans';
+}
+.form-container {
+    background: url('../assets/pexels-bri-schneiter-346529.jpg') no-repeat 50% 50% / cover;
+    height: auto;
+    color: aliceblue;
+
+}
+
